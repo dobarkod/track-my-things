@@ -4,3 +4,6 @@
 /*/static/
 /*/media/
 /dev.db
+/.coverage
+/cover/
+/nosetests.xml
