@@ -9,3 +9,4 @@ gunicorn==0.14.6
 django-nose==1.1
 coverage==3.5.3
 nose==1.2.1
+Pillow==1.7.8
